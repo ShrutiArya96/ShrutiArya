@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #5a656e;
+  color: #b5d2ee;
 }
 
 a {
@@ -73,7 +73,7 @@ h6 {
   z-index: 997;
   transition: all 0.5s;
   height: 60px;
-  background: #fff;
+  background: rgb(12, 12, 12);
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.12);
 }
 
@@ -132,7 +132,7 @@ h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #2c4964;
+  color: #b5d2ee;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -386,7 +386,7 @@ section {
 }
 
 .section-bg {
-  background: linear-gradient(180deg, #f2f6f9 0%, #fff 100%);
+  background: linear-gradient(180deg, #171717 0%, #2a2a2a 100%);
 }
 
 .section-title {
@@ -399,7 +399,7 @@ section {
   margin-bottom: 15px;
   padding-bottom: 15px;
   position: relative;
-  color: #345676;
+  color: #b5d2ee;
 }
 
 .section-title h2::after {
@@ -510,14 +510,14 @@ section {
   margin: 0 0 0 50px;
   font-family: "Playfair Display", serif;
   font-size: 14px;
-  color: #437099;
+  color: #b5d2ee;
 }
 
 .about .content .count-box a {
   font-weight: 600;
   display: block;
   margin-top: 20px;
-  color: #437099;
+  color: #b5d2ee;
   font-size: 15px;
   font-family: "Poppins", sans-serif;
   transition: ease-in-out 0.3s;
@@ -565,7 +565,7 @@ section {
   display: block;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
-  color: #2c4964;
+  color: #b5d2ee;
 }
 
 .skills .progress .skill .val {
@@ -592,7 +592,7 @@ section {
   font-weight: 500;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #4b7dab;
+  color: #b5d2ee;
   font-family: "Poppins", sans-serif;
 }
 
@@ -607,13 +607,13 @@ section {
   line-height: 18px;
   font-size: 18px;
   font-weight: 600;
-  color: #2c4964;
+  color: #b5d2ee;
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4ebf3;
+  background: #63676b;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 400;
@@ -1037,7 +1037,6 @@ section {
 .contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #fff;
   color: #d43076;
   line-height: 0;
   padding: 8px 0;
@@ -1095,7 +1094,7 @@ section {
 }
 
 .contact .info {
-  color: #5a656e;
+  color: #b5d2ee;
 }
 
 .contact .info i {
@@ -1199,6 +1198,7 @@ section {
 .project-detail {
   font-size: 13px;
   margin-bottom: 3px;
+  color: #b5d2ee;
 }
 /*--------------------------------------------------------------
 # Footer
